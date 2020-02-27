@@ -1,0 +1,26 @@
+{
+  "name": "arr-module",
+  "version": "0.0.1",
+  "description": "Array functions to manipulate arrays.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aalekh-Sajonia/array-module.git"
+  },
+  "keywords": [
+    "array",
+    "sort",
+    "average",
+    "sum",
+    "uniq"
+  ],
+  "author": "Aalekh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aalekh-Sajonia/array-module/issues"
+  },
+  "homepage": "https://github.com/Aalekh-Sajonia/array-module#readme"
+}
