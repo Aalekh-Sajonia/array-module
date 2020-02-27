@@ -2,7 +2,7 @@
   "name": "arr-module",
   "version": "0.0.1",
   "description": "Array functions to manipulate arrays.",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "mocha ./test/module.test.js"
   },
