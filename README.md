@@ -7,7 +7,7 @@ A simple module to manipulate arrays
 ```javascript
 ## Instruction
 var array = require('array-module');
-
+```
 ## Methods
 
 ## sumArr
